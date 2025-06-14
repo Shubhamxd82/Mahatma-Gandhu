@@ -84,11 +84,11 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "tojo")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'tojo')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/HA_Bots_Support')
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/HA_Bots')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/HA_Films_World')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/HA_Bots")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/HA_Bots")
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/moviei43')
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/+JuxY_xpUX8c3Nzg9')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/+D2kHhV-ZAIoyNTRl')
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/+JuxY_xpUX8c3Nzg9")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/+JuxY_xpUX8c3Nzg9")
 
 # Bot settings
 TIME_ZONE = environ.get('TIME_ZONE', 'Asia/Colombo') # Replace your time zone
